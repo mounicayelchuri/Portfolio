@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Mounica</title>
+    <link>https://mounicayelchuri.github.io/portfolio/tags/</link>
+    <description>Recent content in Tags on Mounica</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://mounicayelchuri.github.io/portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Visualization</title>
+      <link>https://mounicayelchuri.github.io/portfolio/tags/data-visualization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mounicayelchuri.github.io/portfolio/tags/data-visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://mounicayelchuri.github.io/portfolio/tags/deep-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mounicayelchuri.github.io/portfolio/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EDA</title>
+      <link>https://mounicayelchuri.github.io/portfolio/tags/eda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mounicayelchuri.github.io/portfolio/tags/eda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>imbalanced data</title>
+      <link>https://mounicayelchuri.github.io/portfolio/tags/imbalanced-data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mounicayelchuri.github.io/portfolio/tags/imbalanced-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>low volume data</title>
+      <link>https://mounicayelchuri.github.io/portfolio/tags/low-volume-data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mounicayelchuri.github.io/portfolio/tags/low-volume-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine learning</title>
+      <link>https://mounicayelchuri.github.io/portfolio/tags/machine-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mounicayelchuri.github.io/portfolio/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NLP</title>
+      <link>https://mounicayelchuri.github.io/portfolio/tags/nlp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mounicayelchuri.github.io/portfolio/tags/nlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web scrapping</title>
+      <link>https://mounicayelchuri.github.io/portfolio/tags/web-scrapping/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mounicayelchuri.github.io/portfolio/tags/web-scrapping/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

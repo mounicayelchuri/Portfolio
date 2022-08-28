@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Learning on Mounica</title>
+    <link>https://mounicayelchuri.github.io/portfolio/tags/deep-learning/</link>
+    <description>Recent content in Deep Learning on Mounica</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://mounicayelchuri.github.io/portfolio/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Detect Melanoma: deadly skin cancer</title>
+      <link>https://mounicayelchuri.github.io/portfolio/post/project-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mounicayelchuri.github.io/portfolio/post/project-5/</guid>
+      <description>Dataset consists of images of 9 variants of skin cancers, we need to predict the Melanoma variant accuarately. Used data augmentation techniques to increase the training data like horizontal, vertical flip of image, 20 degree rotation. Removed imbalance among 9 classes by including random rotations of images. Used Conv2D model , sgd optimizer to train the model and achieved around 89% training accuracy and 84% test accuracy. 9 variants in skin cancer Conv2D model performance https://github.</description>
+    </item>
+    
+    <item>
+      <title>Gesture recognition</title>
+      <link>https://mounicayelchuri.github.io/portfolio/post/project-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mounicayelchuri.github.io/portfolio/post/project-4/</guid>
+      <description>Used pre-processing techniques to blur out the background and retain only skin colour. Used python generator to feed data to model in batches. Created model having Conv3D layers, Batch normalization, relu activation layers, maxplooling 3D. Used callback, ReduceLROnPlateau to attain 97 percent training accuracy and 91 percent test accuracy. https://github.com/mounicayelchuri/GestureRecognition/blob/main/Conv3D%20Model.ipynb</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>imbalanced data on Mounica</title>
+    <link>https://mounicayelchuri.github.io/portfolio/tags/imbalanced-data/</link>
+    <description>Recent content in imbalanced data on Mounica</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://mounicayelchuri.github.io/portfolio/tags/imbalanced-data/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Telecom Churn</title>
+      <link>https://mounicayelchuri.github.io/portfolio/post/project-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mounicayelchuri.github.io/portfolio/post/project-1/</guid>
+      <description>Telecom churn:
+Data consisted of around 30k customers with 226 attributes, out of which around 3k customers had churned out. Used Principal component analysis technique to attain most relevant attributes. Handled imbalance in data (Churn ~ 3k, not churned ~27k) . Compared models like Logistic regression, random forest classifier, xgboost classifer. Used Gridsearch to get optimum parameters. Achieved 97% Recall and 86% accuracy on train data and 89 % recall and 84 % accuracy on test data.</description>
+    </item>
+    
+  </channel>
+</rss>

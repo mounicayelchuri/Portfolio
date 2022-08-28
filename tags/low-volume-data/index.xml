@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>low volume data on Mounica</title>
+    <link>https://mounicayelchuri.github.io/portfolio/tags/low-volume-data/</link>
+    <description>Recent content in low volume data on Mounica</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://mounicayelchuri.github.io/portfolio/tags/low-volume-data/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hourprice prediction</title>
+      <link>https://mounicayelchuri.github.io/portfolio/post/project-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mounicayelchuri.github.io/portfolio/post/project-2/</guid>
+      <description>Data consisted of only 1.5k houses information, each having 81 features, we need to predict sale price of houses. For given data, sale prices values are positively skewed, performed logarithmic transformation to normalize the values. Imputed missing values, null values with relevant information. Handled outliers by removing Inter quartile range method. Performed Univariate , bivariate analysis to understand patterns. Removed multicollinearity using techniques like variance inflation factor (VIF), heatmap analysis.</description>
+    </item>
+    
+  </channel>
+</rss>

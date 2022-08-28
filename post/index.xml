@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Mounica</title>
+    <link>https://mounicayelchuri.github.io/portfolio/post/</link>
+    <description>Recent content in Projects on Mounica</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://mounicayelchuri.github.io/portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Detect Melanoma: deadly skin cancer</title>
+      <link>https://mounicayelchuri.github.io/portfolio/post/project-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mounicayelchuri.github.io/portfolio/post/project-5/</guid>
+      <description>Dataset consists of images of 9 variants of skin cancers, we need to predict the Melanoma variant accuarately. Used data augmentation techniques to increase the training data like horizontal, vertical flip of image, 20 degree rotation. Removed imbalance among 9 classes by including random rotations of images. Used Conv2D model , sgd optimizer to train the model and achieved around 89% training accuracy and 84% test accuracy. 9 variants in skin cancer Conv2D model performance https://github.</description>
+    </item>
+    
+    <item>
+      <title>Gesture recognition</title>
+      <link>https://mounicayelchuri.github.io/portfolio/post/project-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mounicayelchuri.github.io/portfolio/post/project-4/</guid>
+      <description>Used pre-processing techniques to blur out the background and retain only skin colour. Used python generator to feed data to model in batches. Created model having Conv3D layers, Batch normalization, relu activation layers, maxplooling 3D. Used callback, ReduceLROnPlateau to attain 97 percent training accuracy and 91 percent test accuracy. https://github.com/mounicayelchuri/GestureRecognition/blob/main/Conv3D%20Model.ipynb</description>
+    </item>
+    
+    <item>
+      <title>Hourprice prediction</title>
+      <link>https://mounicayelchuri.github.io/portfolio/post/project-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mounicayelchuri.github.io/portfolio/post/project-2/</guid>
+      <description>Data consisted of only 1.5k houses information, each having 81 features, we need to predict sale price of houses. For given data, sale prices values are positively skewed, performed logarithmic transformation to normalize the values. Imputed missing values, null values with relevant information. Handled outliers by removing Inter quartile range method. Performed Univariate , bivariate analysis to understand patterns. Removed multicollinearity using techniques like variance inflation factor (VIF), heatmap analysis.</description>
+    </item>
+    
+    <item>
+      <title>Improvising Viterbi algorithm</title>
+      <link>https://mounicayelchuri.github.io/portfolio/post/project-8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mounicayelchuri.github.io/portfolio/post/project-8/</guid>
+      <description>Viterbi algorithm is used to tag parts of speech for any word.
+The vanilla Viterbi algorithm had resulted in ~87% accuracy. The approx. 13% loss of accuracy was majorly due to the fact that when the algorithm encountered an unknown word (i.e. not present in the training set, such as &amp;lsquo;Twitter&amp;rsquo;), it assigned an incorrect tag arbitrarily. This is because, for unknown words, the emission probabilities for all candidate tags are 0, so the algorithm arbitrarily chooses (the first) tag.</description>
+    </item>
+    
+    <item>
+      <title>Predict demand for bikes for Boom Bikes</title>
+      <link>https://mounicayelchuri.github.io/portfolio/post/project-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mounicayelchuri.github.io/portfolio/post/project-3/</guid>
+      <description>Understand the demand for bikes on particular day based on 16 various features based on 2 years data . Handled outliers by removing Inter quartile range method. Performed Univariate , bivariate analysis to understand patterns. Removed multicollinearity using techniques like variance inflation factor (VIF), heatmap analysis. Compared models like Linear regression, Ridge regression, Lasso regression. Performed residual analysis i.e to check if error terms are normally distributed around zero. Achieved 84 % r2-score on training data and 82% r2-score on test score https://github.</description>
+    </item>
+    
+    <item>
+      <title>Risk Analysis</title>
+      <link>https://mounicayelchuri.github.io/portfolio/post/project-7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mounicayelchuri.github.io/portfolio/post/project-7/</guid>
+      <description>Data comprised information of around 40k customers out of which 5k customers defaulted off.
+Performed Data cleaning by Dropping unnecessary columns, removing outliers, imputing missing values.
+Performed univariate analysis, bivariate analysis.
+Below are basic understandings from the data.
+https://github.com/mounicayelchuri/LendingClubCaseStudy/blob/main/LendingClubCaseStudy.ipynb</description>
+    </item>
+    
+    <item>
+      <title>Telecom Churn</title>
+      <link>https://mounicayelchuri.github.io/portfolio/post/project-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mounicayelchuri.github.io/portfolio/post/project-1/</guid>
+      <description>Telecom churn:
+Data consisted of around 30k customers with 226 attributes, out of which around 3k customers had churned out. Used Principal component analysis technique to attain most relevant attributes. Handled imbalance in data (Churn ~ 3k, not churned ~27k) . Compared models like Logistic regression, random forest classifier, xgboost classifer. Used Gridsearch to get optimum parameters. Achieved 97% Recall and 86% accuracy on train data and 89 % recall and 84 % accuracy on test data.</description>
+    </item>
+    
+    <item>
+      <title>Webscrapping a weather detailing website</title>
+      <link>https://mounicayelchuri.github.io/portfolio/post/project-6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mounicayelchuri.github.io/portfolio/post/project-6/</guid>
+      <description>https://www.estesparkweather.net/archive_reports.php EstesPark Weather website lists weather data for the selected month of a year. Used BeautifulSoup to extract information. Created Dataframe containing data from january 2009 to december 2022. Data available on website Creating dataframe out of website information https://github.com/mounicayelchuri/WebScrapping/blob/main/Web%20scrapping%20project.ipynb</description>
+    </item>
+    
+  </channel>
+</rss>

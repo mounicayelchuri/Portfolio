@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>machine learning on Mounica</title>
+    <link>https://mounicayelchuri.github.io/portfolio/tags/machine-learning/</link>
+    <description>Recent content in machine learning on Mounica</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://mounicayelchuri.github.io/portfolio/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hourprice prediction</title>
+      <link>https://mounicayelchuri.github.io/portfolio/post/project-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mounicayelchuri.github.io/portfolio/post/project-2/</guid>
+      <description>Data consisted of only 1.5k houses information, each having 81 features, we need to predict sale price of houses. For given data, sale prices values are positively skewed, performed logarithmic transformation to normalize the values. Imputed missing values, null values with relevant information. Handled outliers by removing Inter quartile range method. Performed Univariate , bivariate analysis to understand patterns. Removed multicollinearity using techniques like variance inflation factor (VIF), heatmap analysis.</description>
+    </item>
+    
+    <item>
+      <title>Predict demand for bikes for Boom Bikes</title>
+      <link>https://mounicayelchuri.github.io/portfolio/post/project-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mounicayelchuri.github.io/portfolio/post/project-3/</guid>
+      <description>Understand the demand for bikes on particular day based on 16 various features based on 2 years data . Handled outliers by removing Inter quartile range method. Performed Univariate , bivariate analysis to understand patterns. Removed multicollinearity using techniques like variance inflation factor (VIF), heatmap analysis. Compared models like Linear regression, Ridge regression, Lasso regression. Performed residual analysis i.e to check if error terms are normally distributed around zero. Achieved 84 % r2-score on training data and 82% r2-score on test score https://github.</description>
+    </item>
+    
+    <item>
+      <title>Telecom Churn</title>
+      <link>https://mounicayelchuri.github.io/portfolio/post/project-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mounicayelchuri.github.io/portfolio/post/project-1/</guid>
+      <description>Telecom churn:
+Data consisted of around 30k customers with 226 attributes, out of which around 3k customers had churned out. Used Principal component analysis technique to attain most relevant attributes. Handled imbalance in data (Churn ~ 3k, not churned ~27k) . Compared models like Logistic regression, random forest classifier, xgboost classifer. Used Gridsearch to get optimum parameters. Achieved 97% Recall and 86% accuracy on train data and 89 % recall and 84 % accuracy on test data.</description>
+    </item>
+    
+  </channel>
+</rss>
